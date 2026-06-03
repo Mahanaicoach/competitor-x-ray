@@ -1,0 +1,37 @@
+{
+  "skill_name": "competitor-x-ray",
+  "evals": [
+    {
+      "id": 0,
+      "name": "company-quant",
+      "prompt": "research bonusly and nectar as competitors for me — i want each one's ICP, funnel, and how they make money, with the actual numbers (traffic, size) where you can get them",
+      "expected_output": "Per-competitor briefs for two B2B SaaS companies (ICP separating buyer vs user, funnel stages, pricing/revenue model) each with a quantitative snapshot (traffic estimate, size signal) sourced and dated; cross-competitor synthesis with a threat ranking that uses the numbers. Evidence tiers (confirmed/reported/inferred) applied. Handles company-type targets, not just creators.",
+      "files": [],
+      "assertions": [
+        {"text": "Produces a separate brief for BOTH Bonusly and Nectar"},
+        {"text": "Separates ICP buyer (HR/People leaders) from end-user (employees)"},
+        {"text": "Maps funnel stages (top/middle/bottom) for each, not a blob"},
+        {"text": "States pricing or revenue model with per-seat/plan detail"},
+        {"text": "Includes a quantitative snapshot with at least one sourced+dated metric (traffic or size) per competitor"},
+        {"text": "Tags at least one figure as REPORTED or estimated rather than treating self-reported/estimated numbers as confirmed"},
+        {"text": "Synthesis ranks the two by threat using size/momentum, not just vibes"},
+        {"text": "Cites real source URLs"}
+      ]
+    },
+    {
+      "id": 1,
+      "name": "gated-creator",
+      "prompt": "break down @alexhormozi for me — his ICP, funnel, and exactly how he makes money. and give me the follower/size numbers",
+      "expected_output": "A single-competitor brief for a creator whose social profiles are gated. Should pull facts from owned pages (acquisition.com), interviews, and third-party analytics rather than failing on the login wall. Quantitative snapshot includes follower counts per platform with source (e.g., Social Blade) and a growth read. ICP separates audience from buyer. Monetization covers the real engine (Acquisition.com portfolio/equity, books, free content as funnel). Evidence tiers applied.",
+      "files": [],
+      "assertions": [
+        {"text": "Does NOT fail or stall on gated Instagram/social — pulls facts from owned pages, interviews, or third-party analytics"},
+        {"text": "Includes follower/size numbers with a named source (e.g., Social Blade) and platform breakdown"},
+        {"text": "Separates audience (gym owners, aspiring entrepreneurs) from how he actually monetizes"},
+        {"text": "Identifies the real monetization engine (Acquisition.com investing/equity, books, paid communities) rather than assuming course sales"},
+        {"text": "Maps funnel: free content/books at top, into the business offers"},
+        {"text": "Applies confirmed/reported/inferred tags and cites sources"}
+      ]
+    }
+  ]
+}

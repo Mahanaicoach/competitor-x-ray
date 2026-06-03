@@ -1,0 +1,17 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Python (designed-PDF rendering)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated reports / scratch output
+*.pdf
+out*.jpg
+out*.png
