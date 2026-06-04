@@ -58,6 +58,25 @@ If WeasyPrint won't install, the skill automatically falls back to ReportLab (al
 
 ---
 
+## Optional: the `/x-ray` slash command (Claude Code)
+
+The skill triggers automatically from plain language — you don't need a command. But if you want a one-liner shortcut in **Claude Code**, this repo ships one:
+
+```bash
+# from inside the cloned repo
+cp commands/x-ray.md ~/.claude/commands/x-ray.md
+```
+
+Then you can run it directly:
+
+```
+/x-ray @sabrina_ramonov @thedankoe gregisenberg
+```
+
+It tells Claude to invoke the competitor-x-ray skill on whatever targets you pass (or asks for them if you leave it blank). This is a Claude Code feature — the Cowork desktop app uses plain-language triggering instead.
+
+---
+
 ## Verify it's working
 
 Open a chat and paste:
