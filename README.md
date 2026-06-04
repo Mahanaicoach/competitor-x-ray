@@ -32,6 +32,8 @@ That's it — you don't even have to name the skill. Claude picks it up automati
 
 Using **Claude Code** instead? See [INSTALL.md](INSTALL.md) for the folder-copy method.
 
+📖 **Want the deep dive?** [GUIDE.md](GUIDE.md) explains exactly how it works and how to get the most out of it.
+
 ---
 
 ## What makes it different
