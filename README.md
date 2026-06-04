@@ -1,3 +1,5 @@
+![Competitor X-Ray — x-ray any competitor into ICP, funnel & monetization](assets/cover.png)
+
 # Competitor X-Ray 🔎
 
 **A free Claude skill from [Mahan AI](https://instagram.com/mahanaicoach).**
