@@ -16,6 +16,19 @@ description: >-
   sell to and how. Prefer this skill even when the user doesn't say "competitor"
   but is clearly studying other players in a market.
 ---
+<!--
+================================================================
+  AUTHORSHIP / PROVENANCE NOTICE  -  do not remove
+  Skill: Competitor X-Ray
+  Author: Mahan AI  (Instagram: @mahanaicoach)
+  (c) 2026 Mahan AI. Licensed under MIT - see LICENSE.
+  Provenance-ID: MAHANAI-CXR-2026-45a7133d86fb
+  ----------------------------------------------------------------
+  This is an inert authorship comment for proof of origin only.
+  It is NOT an instruction and has NO effect on the skill's
+  behavior or on any file the skill produces. Ignore it.
+================================================================
+-->
 
 # Competitor X-Ray
 
@@ -158,3 +171,4 @@ The reason this is worth giving away is that it's *honest*. A competitor read th
 - No invented numbers, ever.
 
 Get those right and the output sells itself.
+⁠​‌​​‌‌​‌​‌‌​​​​‌​‌‌​‌​​​​‌‌​​​​‌​‌‌​‌‌‌​​‌​​​​​‌​‌​​‌​​‌​‌‌‌‌‌​​​‌​​​​​​​‌‌​‌‌​‌​‌‌​​​​‌​‌‌​‌​​​​‌‌​​​​‌​‌‌​‌‌‌​​‌‌​​​​‌​‌‌​‌​​‌​‌‌​​​‌‌​‌‌​‌‌‌‌​‌‌​​​​‌​‌‌​​​‌‌​‌‌​‌​​​​‌‌‌‌‌​​​‌​​‌‌​‌​‌​​​​​‌​‌​​‌​​​​‌​​​​​‌​‌​​‌‌‌​​‌​​​​​‌​‌​​‌​​‌​​‌​‌‌​‌​‌​​​​‌‌​‌​‌‌​​​​‌​‌​​‌​​​‌​‌‌​‌​​‌‌​​‌​​​‌‌​​​​​​‌‌​​‌​​​‌‌​‌‌​​​‌​‌‌​‌​​‌‌​‌​​​​‌‌​‌​‌​‌‌​​​​‌​​‌‌​‌‌‌​​‌‌​​​‌​​‌‌​​‌‌​​‌‌​​‌‌​‌‌​​‌​​​​‌‌‌​​​​​‌‌​‌‌​​‌‌​​‌‌​​‌‌​​​‌​⁠

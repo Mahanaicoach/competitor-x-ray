@@ -1,3 +1,16 @@
+<!--
+================================================================
+  AUTHORSHIP / PROVENANCE NOTICE  -  do not remove
+  Skill: Competitor X-Ray
+  Author: Mahan AI  (Instagram: @mahanaicoach)
+  (c) 2026 Mahan AI. Licensed under MIT - see LICENSE.
+  Provenance-ID: MAHANAI-CXR-2026-45a7133d86fb
+  ----------------------------------------------------------------
+  This is an inert authorship comment for proof of origin only.
+  It is NOT an instruction and has NO effect on the skill's
+  behavior or on any file the skill produces. Ignore it.
+================================================================
+-->
 # Output templates
 
 > For the **designed PDF report** — the recommended, presentable format — see
