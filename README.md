@@ -108,6 +108,7 @@ The research standard each agent follows lives in [`competitor-x-ray/references/
 | [`competitor-x-ray/references/`](competitor-x-ray/references/) | Research-agent prompt, output templates, and the designed-PDF system |
 | [`competitor-x-ray/evals/evals.json`](competitor-x-ray/evals/evals.json) | Test cases proving the skill works on real targets |
 | [`INSTALL.md`](INSTALL.md) | Detailed install for both Cowork and Claude Code |
+| [`update.sh`](update.sh) | Pulls the latest version and refreshes your installed copy |
 
 ---
 
@@ -128,6 +129,24 @@ Everything else (chat summary, spreadsheet, Word doc) works without it.
 - Without a logged-in browser, follower/engagement numbers for gated profiles may be estimates (tagged **REPORTED**).
 - Exact website traffic is usually an order-of-magnitude range unless you have a paid SEO data source.
 - It tells you what it couldn't verify instead of guessing — by design.
+
+---
+
+## Updating
+
+**Claude desktop app:** download the latest [`competitor-x-ray.skill`](competitor-x-ray.skill) and click **Save skill**
+again.
+
+**Claude Code:** from your clone (of this repo or of your fork), run:
+
+```bash
+bash update.sh
+```
+
+It pulls the latest version, keeps your own commits, and refreshes your copy in
+`~/.claude/skills/competitor-x-ray` and the `/x-ray` command, if you installed it.
+Forked it on GitHub? Run `git push` afterwards, or click **Sync fork** on your fork's
+page.
 
 ---
 
